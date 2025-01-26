@@ -1,5 +1,15 @@
 ## Hello I'm new to Github 👋
 
+## About me
+
+Hi, I'm Aladmyr. 
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| SQL       |
+|     2| PowerBI   |
+|     3| Databricks|
+
 <!--
 **Aladmyr/Aladmyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
